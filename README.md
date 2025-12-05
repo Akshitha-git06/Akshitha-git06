@@ -1,5 +1,5 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)](https://github.com/Akshitha-git06)
-<h1 align="center">Hi 👋, I'm Akshitha Thatla
+<h1 align="center">Hi 👋, I'm Akshitha 
 <h3 align="center">Data Analyst | Turning raw data into meaningful stories through data visualization, automation, and analytics.</h3>
 <!-- GIF -->
 <img align="right" height="200" width="400" src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" />
