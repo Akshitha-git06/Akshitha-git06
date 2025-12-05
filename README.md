@@ -6,7 +6,6 @@
 
 - 💬 Ask me about **Power BI, KPI dashboards, SQL optimization, Excel automation, and turning data into business insights.**
 
-- 📫 How to reach me **akshithathatla06@gmail.com**
 
 - ⚡ Fun fact **I build dashboards that talk less and say more.**
 
